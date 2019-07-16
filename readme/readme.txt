@@ -18,4 +18,5 @@ To:
 			   line4
            }
 
-Author: Alexey T
+Author: Alexey T. (CudaText)
+License: MIT
