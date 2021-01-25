@@ -18,5 +18,5 @@ To:
 			   line4
            }
 
-Author: Alexey T. (CudaText)
+Author: Alexey Torgashin (CudaText)
 License: MIT
